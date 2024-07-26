@@ -15,4 +15,4 @@ This project implements a book recommender system using Collaborative Filtering 
 - `books.pkl`: A pickle file containing detailed book information.
 - `similarity_scores.pkl`: A pickle file containing precomputed similarity scores for collaborative filtering.
 
-## All code in data are in remote_repo.zip please unzip it 
+## All code and data are in remote_repo.zip please unzip it 
